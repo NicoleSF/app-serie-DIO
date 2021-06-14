@@ -1,0 +1,13 @@
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\bin\Debug\netcoreapp3.1\Aplicativo-DIO.exe
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\bin\Debug\netcoreapp3.1\Aplicativo-DIO.deps.json
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\bin\Debug\netcoreapp3.1\Aplicativo-DIO.runtimeconfig.json
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\bin\Debug\netcoreapp3.1\Aplicativo-DIO.runtimeconfig.dev.json
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\bin\Debug\netcoreapp3.1\Aplicativo-DIO.dll
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\bin\Debug\netcoreapp3.1\Aplicativo-DIO.pdb
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\obj\Debug\netcoreapp3.1\Aplicativo-DIO.csprojAssemblyReference.cache
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\obj\Debug\netcoreapp3.1\Aplicativo-DIO.AssemblyInfoInputs.cache
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\obj\Debug\netcoreapp3.1\Aplicativo-DIO.AssemblyInfo.cs
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\obj\Debug\netcoreapp3.1\Aplicativo-DIO.csproj.CoreCompileInputs.cache
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\obj\Debug\netcoreapp3.1\Aplicativo-DIO.dll
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\obj\Debug\netcoreapp3.1\Aplicativo-DIO.pdb
+D:\Desktop\bootcamp DIO\Aplicativo-DIO\Aplicativo-DIO\obj\Debug\netcoreapp3.1\Aplicativo-DIO.genruntimeconfig.cache
